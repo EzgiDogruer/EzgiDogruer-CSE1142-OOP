@@ -1,0 +1,54 @@
+************************************************************************
+Department  [departmentId=1   departmentName=Accounting]
+
+Manager [id=123 firstName=Mehmet lastName=Ari ]
+
+1.Developer
+
+Person Info [id=111,  firstName=Ayse,  lastName=Caliskan, birthDate=05/05/1986, gender=Woman,  MaritalStatus=Married,  DriverLicence=Yes]
+Employee Info  [salary= 5000,00 , hireDate= 10/10/2017]
+RegularEmployee Info  [performanceScore= 25,0 bonus= 0,0 ] 
+[Project  [projectName=CreditCard, startDate=01/05/2017,  state=false]]
+
+2.SalesEmployee
+
+Person Info [id=167,  firstName=Serkan,  lastName=Yildiz, birthDate=25/09/1990, gender=Man,  MaritalStatus=Married,  DriverLicence=Yes]
+Employee Info  [salary= 7500,00 , hireDate= 14/02/2015]
+RegularEmployee Info  [performanceScore= 50,0 bonus= 0,0 ]
+[products =[productName=Product5,  transactionDate= 11/01/2017 ,  price=90000,00]]
+
+3.RegularEmployee
+
+Person Info [id=156,  firstName=Bulut,  lastName=Karadag, birthDate=23/07/1979, gender=Man,  MaritalStatus=Single,  DriverLicence=Yes]
+Employee Info  [salary= 3500,00 , hireDate= 15/11/2018]
+RegularEmployee Info  [performanceScore= 75,0 bonus= 0,0 ]
+************************************************************************
+Department  [departmentId=2   departmentName=Marketing]
+
+Manager [id=256 firstName=Arzu lastName=Ozturk ]
+
+1.Developer
+
+Person Info [id=247,  firstName=Fatma,  lastName=Esin, birthDate=18/11/1976, gender=Woman,  MaritalStatus=Single,  DriverLicence=Yes]
+Employee Info  [salary= 5000,00 , hireDate= 04/11/2016]
+RegularEmployee Info  [performanceScore= 80,0 bonus= 0,0 ] 
+[Project  [projectName=FaceRecognition, startDate=01/07/2018,  state=false]]
+
+2.SalesEmployee
+
+Person Info [id=213,  firstName=Mustafa,  lastName=Emir, birthDate=05/04/1989, gender=Man,  MaritalStatus=Married,  DriverLicence=Yes]
+Employee Info  [salary= 10000,00 , hireDate= 24/05/2014]
+RegularEmployee Info  [performanceScore= 100,0 bonus= 0,0 ]
+[products =[productName=Product1,  transactionDate= 01/01/2019 ,  price=10000,00]]
+
+*************************CUSTOMERS***************************************
+Customer  [id: 178 [products =[productName=Product2,  transactionDate= 01/02/2019 ,  price=1500,00]]]
+Customer  [id: 224 [products =[productName=Product1,  transactionDate= 01/01/2019 ,  price=10000,00]]]
+Customer  [id: 267 [products =[productName=Product3,  transactionDate= 01/11/2018 ,  price=15000,00]]]
+*************************PEOPLE******************************************
+
+Person Info [id=145,  firstName=Ismail,  lastName=Celik, birthDate=09/06/1988, gender=Man,  MaritalStatus=Married,  DriverLicence=Yes]
+
+Person Info [id=189,  firstName=Taner,  lastName=Eser, birthDate=09/01/1967, gender=Man,  MaritalStatus=Single,  DriverLicence=Yes]
+
+Person Info [id=236,  firstName=Ela,  lastName=Kara, birthDate=24/09/1989, gender=Woman,  MaritalStatus=Married,  DriverLicence=No]
